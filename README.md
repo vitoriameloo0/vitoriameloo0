@@ -1,6 +1,6 @@
 ## Olá, me chamo Vitória! 👋
 
-- 🔭 Atualmente estou trabalhando em projetos com foco em Back-end
+- 🔭 Atualmente estou trabalhando em projetos com foco em Desenvolvimento Web
 - 📫 Estudo Ciencias da Computação na Universidade Estadual do Oeste do Paraná 
 
 <div>
