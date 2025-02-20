@@ -3,11 +3,15 @@
 - 🔭 Atualmente estou trabalhando em projetos com foco em Desenvolvimento Web
 - 📫 Estudo Ciencias da Computação na Universidade Estadual do Oeste do Paraná 
 
-<div>
-<a href="https://github.com/vitoriameloo0">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriameloo0&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriameloo0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <a href="https://github.com/vitoriameloo0">
+    <img loading="lazy" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriameloo0&layout=compact&langs_count=7&theme=dracula" alt="Top linguagens usadas"/>
+  </a>
+  <a href="https://github.com/vitoriameloo0">
+    <img loading="lazy" height="180px" src="https://github-readme-stats.vercel.app/api?username=vitoriameloo0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  </a>
 </div>
+
 
 ## Contatos:
 <div>
