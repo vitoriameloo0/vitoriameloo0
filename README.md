@@ -3,14 +3,26 @@
 - 🔭 Atualmente estou trabalhando em projetos com foco em Desenvolvimento Web
 - 📫 Bacharel em Ciência da Computação pela Universidade Estadual do Oeste do Paraná (Unioeste)
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://github.com/vitoriameloo0">
-    <img loading="lazy" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriameloo0&layout=compact&langs_count=7&theme=dracula" alt="Top linguagens usadas"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <a href="https://github.com/vitoriameloo0" target="_blank">
+    <img 
+      loading="lazy" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriameloo0&layout=compact&langs_count=7&theme=dracula" 
+      alt="Top linguagens usadas" 
+      style="height: 180px;"
+    />
   </a>
-  <a href="https://github.com/vitoriameloo0">
-    <img loading="lazy" height="180px" src="https://github-readme-stats.vercel.app/api?username=vitoriameloo0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  
+  <a href="https://github.com/vitoriameloo0" target="_blank">
+    <img 
+      loading="lazy" 
+      src="https://github-readme-stats.vercel.app/api?username=vitoriameloo0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
+      alt="Estatísticas do GitHub" 
+      style="height: 180px;"
+    />
   </a>
 </div>
+
 
 
 ## Contatos:
