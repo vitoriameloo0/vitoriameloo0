@@ -1,7 +1,7 @@
 ## Olá, me chamo Vitória! 👋
 
-- 🔭 Atualmente estou trabalhando em projetos com foco em Desenvolvimento Web
-- 📫 Bacharel em Ciência da Computação pela Universidade Estadual do Oeste do Paraná (Unioeste)
+- 📌 Atualmente estou trabalhando em projetos com foco em Desenvolvimento Web
+- 🎓 Bacharel em Ciência da Computação pela Universidade Estadual do Oeste do Paraná (Unioeste)
 
 <div align="left" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=vitoriameloo0&show_icons=true&theme=dracula" alt="Vitória's GitHub Stats" width="46%"> 
