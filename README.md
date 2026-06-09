@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td>
-      <img src="[https://github-readme-stats.vercel.app/api?username=vitoriameloo0&show_icons=true&theme=dracula](https://github-readme-stats-sigma-five.vercel.app/api?username=vitoriameloo0&show_icons=true&theme=dracula)"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=vitoriameloo0&show_icons=true&theme=dracula](https://github-readme-stats-sigma-five.vercel.app/api?username=vitoriameloo0&show_icons=true&theme=dracula)"/>
     </td>
     <td>
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vitoriameloo0&layout=compact&theme=dracula" />
