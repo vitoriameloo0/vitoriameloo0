@@ -3,13 +3,17 @@
 - 📌 Atualmente estou trabalhando em projetos com foco em Desenvolvimento Web
 - 🎓 Bacharel em Ciência da Computação pela Universidade Estadual do Oeste do Paraná (Unioeste)
 
+## 📊 GitHub Stats
+
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vitoriameloo0&show_icons=true&theme=dracula" />
+      <img height="180em"
+        src="https://github-stats-extended.vercel.app/api?username=vitoriameloo0&theme=dracula&hide_border=false&include_all_commits=true&count_private=false"/>
     </td>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vitoriameloo0&layout=compact&theme=dracula" />
+      <img height="180em"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=vitoriameloo0&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
     </td>
   </tr>
 </table>
